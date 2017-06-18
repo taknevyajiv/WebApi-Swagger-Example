@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwaggerWithWebApi", "Swagge
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{976C10DF-6B1E-46AC-A50C-9C0911B19EA7}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestApp", "TestApp\TestApp.csproj", "{27A26245-A36B-4ADB-B61F-B7C250E508C7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{976C10DF-6B1E-46AC-A50C-9C0911B19EA7}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{976C10DF-6B1E-46AC-A50C-9C0911B19EA7}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{976C10DF-6B1E-46AC-A50C-9C0911B19EA7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27A26245-A36B-4ADB-B61F-B7C250E508C7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27A26245-A36B-4ADB-B61F-B7C250E508C7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27A26245-A36B-4ADB-B61F-B7C250E508C7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27A26245-A36B-4ADB-B61F-B7C250E508C7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
